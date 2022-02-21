@@ -1,7 +1,7 @@
 
 # Website pessoal para projetos/portfólio desenvolvido com a Rocketseat na NLW
 <div style="display: inline-block">
-    <img src="./img/screenshot.png" alt="Aplicação">
+    <img height="80rem" src="./img/screenshot.png" alt="Aplicação">
 </div>
 
 ## Sobre o Projeto
